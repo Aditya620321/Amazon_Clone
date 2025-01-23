@@ -195,7 +195,7 @@ border: 1.5px solid transparent;
 .content-pic{
     height: 600px;
     width: 1350px;
-    background-image: url("/Images/tuxpi.com.1709146035.jpg");
+    background-image: url("Images/tuxpi.com.1709146035.jpg");
     background-size: cover;
 }
 .line-margin{
@@ -235,7 +235,7 @@ border: 1.5px solid transparent;
 .first-first{
     height: 350px;
     width: 270px;
-    background-image: url("/Images/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg");
+    background-image: url("Images/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -247,7 +247,7 @@ border: 1.5px solid transparent;
 .first-first1{
     height: 350px;
     width: 270px;
-    background-image: url("/Images/toy.jpg");
+    background-image: url("Images/toy.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -255,7 +255,7 @@ border: 1.5px solid transparent;
 .first-first2{
     height: 330px;
     width: 270px;
-    background-image: url("/Images/3rd.jpg");
+    background-image: url("Images/3rd.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -270,7 +270,7 @@ border: 1.5px solid transparent;
 .first-first3{
     height: 350px;
     width: 270px;
-    background-image: url("/Images/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg");
+    background-image: url("Images/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -279,7 +279,7 @@ border: 1.5px solid transparent;
 .first-first2-1{
     height: 330px;
     width: 270px;
-    background-image: url("/Images/watch.jpg");
+    background-image: url("Images/watch.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -288,7 +288,7 @@ border: 1.5px solid transparent;
 .first-first2-2{
     height: 330px;
     width: 270px;
-    background-image: url("/Images/tv.jpg");
+    background-image: url("Images/tv.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -297,7 +297,7 @@ border: 1.5px solid transparent;
 .first-first2-3{
     height: 350px;
     width: 270px;
-    background-image: url("/Images/girl.jpg");
+    background-image: url("Images/girl.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -305,7 +305,7 @@ border: 1.5px solid transparent;
 .first-first2-4{
     height: 350px;
     width: 270px;
-    background-image: url("/Images/computer.jpg");
+    background-image: url("Images/computer.jpg");
     background-repeat: no-repeat;
     background-position: center;
     margin-left: 20px;
@@ -436,7 +436,7 @@ border: 1.5px solid transparent;
 .amazon-bottom{
     height: 200px;
     width: 200px;
-    background-image: url("/Images/Capture.PNG");
+    background-image: url("Images/Capture.PNG");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
